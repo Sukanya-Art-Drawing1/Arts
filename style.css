@@ -48,7 +48,7 @@ nav ul li a
 {
     width: 120px;
     height: 110px;
-    margin-left: 30px;
+    margin-left: 5px;
      margin-top: 20px;
     -webkit-clip-path: circle(42.4% at 50% 50%);
     clip-path: circle(42.4% at 50% 50%);
